@@ -1,0 +1,8 @@
+{
+  "appId": "com.firebaseGeolocation.ionic",
+  "appName": "com.firebaseGeolocation.ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

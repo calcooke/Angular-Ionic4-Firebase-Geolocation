@@ -1,5 +1,7 @@
 {
   "name": "firebaseGeolocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
